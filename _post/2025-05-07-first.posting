@@ -1,0 +1,52 @@
+# 박다솜입니다
+
+깃헙 블로그 만드는 중. (#) 하나는 h1 태그
+
+## (#)두개는 h2 라고 합니당
+
+- 오늘 점심은
+- 안사람이 준비한
+- 육개장입니다
+- 하하하핳하하
+
+## 햄보케요
+
+```javascript
+const CHANCE = Math.random() > 0.5;
+if (CHANCE) {
+  console.log("It's true");
+} else {
+  console.log("It's false");
+}
+
+// Fun JavaScript Example
+const funMessage = () => {
+  const messages = ["Hello, world!", "JavaScript is fun!", "Keep coding!"];
+  const randomIndex = Math.floor(Math.random() * messages.length);
+  console.log(messages[randomIndex]);
+};
+funMessage();
+```
+
+## 이미지
+
+![Ken Block](https://i.ytimg.com/vi/esBYZjbz1zw/maxresdefault.jpg 'Ken Block rip')
+
+## Check Out These Apps
+
+- [레파지토리 삭제](https://www.google.com/search?q=%EB%9E%98%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC+%EC%82%AD%EC%A0%9C&oq=%EB%9E%98%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC+%EC%82%AD%EC%A0%9C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM2ODVqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8)
+- [무슨 킴 님의 블로그](https://www.linkedin.com/feed/update/urn:li:activity:7175273934806790144/)
+
+## Tip
+
+일단 대충 만들어봐야 수업 내용을 놓치지 않을 수 있어요 🎉
+ 
+
+## 마크다운 부제목 뭐라고 지
+
+ - 오늘 좀 쌀쌀한것같아요
+
+ - 그냥 대충 적는거예요
+
+ -  모두모두 힘냅시다 🎉
+ 
